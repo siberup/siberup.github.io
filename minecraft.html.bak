@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SİBERUP - Multi Theft Auto Sunucuları</title>
+    <title>SİBERUP - Minecraft Sunucuları</title>
     <meta name="description" content="">
     <link href="fav.png" rel="shortcut icon">
     <!-- Fonts -->
@@ -41,7 +41,7 @@
     </div>
   </div>
   <!-- ***** UPLOADED MENU FROM HEADER.HTML ***** -->
-   
+  
   <header id="header"> 
 <!-- ***** NEWS ***** -->
  
@@ -276,7 +276,7 @@ $("#nav-toggle").click(function(){
 $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
 });
 </script>
-  </header> <!-- ***** SLIDER ***** -->
+  </header>  <!-- ***** SLIDER ***** -->
   <div class="top-header overlay-video">
     <div class="container">
       <div class="covervid-wrapper">
@@ -287,8 +287,8 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
       <div class="row">
         <div class="col-sm-12 col-md-12">
           <div class="wrapper">
-            <h1 class="heading">Multi Theft Auto</h1>
-            <h3 class="subheading">Multi Theft Auto için özelleştirilmiş sunucularımız<br>
+            <h1 class="heading">Minecraft</h1>
+            <h3 class="subheading">Minecraft için özelleştirilmiş sunucularımız<br>
             
             </h3>
           </div>
@@ -304,9 +304,9 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
           <div class="wrapper first text-left">
             <div class="top-content">
               <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
-              <div class="title">MTA #1</div>
+              <div class="title">MC #1</div>
               
-              <div class="price"><sup><tl>₺</tl></sup>29.99 <span class="period">/ay</span></div>
+              <div class="price"><sup><tl>₺</tl></sup>34.99 <span class="period">/ay</span></div>
               <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
             </div>
             <ul class="list-info">
@@ -321,9 +321,9 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
           <div class="wrapper text-left">
             <div class="top-content">
               <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
-              <div class="title">MTA #2</div>
+              <div class="title">MC #2</div>
               
-              <div class="price"><sup><tl>₺</tl></sup>49.99 <span class="period">/ay</span></div>
+              <div class="price"><sup><tl>₺</tl></sup>44.99 <span class="period">/ay</span></div>
               <a href="http://inebur.com/whmcs/cart.php?a=add&pid=5" class="btn btn-default-yellow-fill">Sipariş ver</a>
             </div>
             <ul class="list-info bg-purple">
@@ -338,7 +338,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
           <div class="wrapper first text-left">
             <div class="top-content">
               <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
-              <div class="title">MTA #3</div>
+              <div class="title">MC #3</div>
            
               <div class="price"><sup><tl>₺</tl></sup>79.99 <span class="period">/ay</span></div>
               <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
@@ -355,7 +355,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
           <div class="wrapper first text-left">
             <div class="top-content">
               <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
-              <div class="title">MTA #4</div>
+              <div class="title">MC #4</div>
            
               <div class="price"><sup><tl>₺</tl></sup>149.99 <span class="period">/ay</span></div>
               <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
@@ -372,7 +372,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
           <div class="wrapper first text-left">
             <div class="top-content">
               <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
-              <div class="title">MTA #5</div>
+              <div class="title">MC #5</div>
            
               <div class="price"><sup><tl>₺</tl></sup>199.99 <span class="period">/ay</span></div>
               <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
@@ -391,9 +391,9 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
           <div class="wrapper first text-left">
             <div class="top-content">
               <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
-              <div class="title">MTA #6</div>
+              <div class="title">MC #6</div>
            
-              <div class="price"><sup><tl>₺</tl></sup>249.99 <span class="period">/ay</span></div>
+              <div class="price"><sup><tl>₺</tl></sup>279.99 <span class="period">/ay</span></div>
               <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
             </div>
             <ul class="list-info">
@@ -425,13 +425,13 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <h2 class="section-heading">Sıkça Sorulan Sorular Multi Theft Auto </h2>
+          <h2 class="section-heading">Sıkça Sorulan Sorular Minecraft </h2>
         </div>
         <div class="col-sm-12">
           <div class="accordion faq pt-5">
             <div class="panel-wrap">
               <div class="panel-title">
-                <span>Multi Theft Auto Server Kiralama hizmetinizde hangi lokasyon kullanıyorsunuz?</span>
+                <span>Minecraft Server Kiralama hizmetinizde hangi lokasyon kullanıyorsunuz?</span>
                 <div class="float-right">
                   <i class="fa fa-plus"></i>
                   <i class="fa fa-minus c-pink"></i>
@@ -442,7 +442,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
                   <div class="info">
                     <ul class="list">
                       <li>
-                        <p>Multi Theft Auto Server Kiralama hizmetlerimiz de Türkiye Lokasyon tercih etmekteyiz. </p>
+                        <p>Minecraft Server Kiralama hizmetlerimiz de Türkiye Lokasyon tercih etmekteyiz. </p>
                         <p>Datacasa Data Center / Başakşehir İstanbul</p>
                       </li>
                     </ul>
@@ -450,10 +450,9 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
                 </div>
               </div>
             </div>
-       
             <div class="panel-wrap">
               <div class="panel-title">
-                <span>Multi Theft Auto Sunucu Kurma Nedir?</span>
+                <span>Minecraft, Forge, Bukkit gibi multiplayer modifikasyon hizmetini kullanabilir miyim? </span>
                 <div class="float-right">
                   <i class="fa fa-plus"></i>
                   <i class="fa fa-minus c-pink"></i>
@@ -464,8 +463,28 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
                   <div class="info">
                     <ul class="list">
                       <li>
-                        <p>Multi Theft Auto Sunucu Kurma hizmetimiz ile birlikte sizler de hayalini kurduğunuz Multi Theft Auto Sunucu hizmetine kavuşabileceksiniz.</p>
-                        <p>İstediğiniz gibi şekillendirebileceğiniz Multi Theft Auto Server Kurma hizmetimiz ile birlikte sizde hayallerinizdeki sunucuya kavuşacaksınız.</p>
+                        <p>Evet, istediğiniz tüm modifikasyon hizmetini kullanabilirsiniz.</p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="panel-wrap">
+              <div class="panel-title">
+                <span>Minecraft Sunucu Kurma Nedir?</span>
+                <div class="float-right">
+                  <i class="fa fa-plus"></i>
+                  <i class="fa fa-minus c-pink"></i>
+                </div>
+              </div>
+              <div class="panel-collapse">
+                <div class="wrapper-collapse">
+                  <div class="info">
+                    <ul class="list">
+                      <li>
+                        <p>Minecraft Sunucu Kurma hizmetimiz ile birlikte sizler de hayalini kurduğunuz Minecraft Sunucu hizmetine kavuşabileceksiniz.</p>
+                        <p>İstediğiniz gibi şekillendirebileceğiniz Minecraft Server Kurma hizmetimiz ile birlikte sizde hayallerinizdeki sunucuya kavuşacaksınız.</p>
                       </li>
                     </ul>
                   </div>
@@ -638,9 +657,9 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
 
 <style>
 .top-header {
-    background: url(img/mta.jpg);
+    background: url(patterns/gaming.svg);
     background-size: cover;
-	background-position-y: 30%;
+	background-position-y: 50%;
     background-color: black;
 }
 </style>

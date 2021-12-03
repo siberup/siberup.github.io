@@ -128,7 +128,7 @@
               <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="">
               <div class="title">Cpanel Web Hosting</div>
               <div class="fromer">Ba<x>ş</x>layan fiyatlarla:</div>
-              <div class="price"><sup><tl></tl></sup>Yakında <span class="period">/ay</span></div>
+              <div class="price"><sup><tl></tl></sup>Yakında<span class="period">/ay</span></div>
               <a href="hosting" class="btn btn-default-yellow-fill">Tüm paketler</a>
             </div>
             <ul class="list-info">
