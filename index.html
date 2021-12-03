@@ -9,6 +9,14 @@
     <link href="fav.png" rel="shortcut icon">
     <!-- Fonts -->
     <script src="js/jquery.min.js"></script>
+    <script>
+     $.post('https://my.siberup.com/nav.php', JSON.stringify({}), function(data){
+        $("header").html(data);
+     });
+     $.post('https://my.siberup.com/footer.php', JSON.stringify({}), function(data){
+       $("footer").html(data);
+     });
+    </script>
     <link href="fonts/cloudicon/cloudicon.css" rel="stylesheet" media="none" onload="if(media!='all')media='all'">
     <link href="fonts/fontawesome/css/all.css" rel="stylesheet" media="none" onload="if(media!='all')media='all'">
     <link href="fonts/opensans/opensans.css" rel="stylesheet" media="none" onload="if(media!='all')media='all'">
@@ -36,18 +44,7 @@
  
   </header>
   
-  <script>
- 
-  $.post('https://my.siberup.com/nav.php', JSON.stringify({}), function(data){
-     $("header").html(data);
-  });
-  $.post('https://my.siberup.com/footer.php', JSON.stringify({}), function(data){
-     $("footer").html(data);
-  });
-  
-  
-  
-  </script>
+
   <!-- ***** SLIDER ***** -->
   <section id="owl-demo" class="owl-carousel owl-theme owl-loaded owl-drag">
   	  <div class="full h-100 overlay-video">
