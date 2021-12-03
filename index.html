@@ -264,8 +264,25 @@
 $("#nav-toggle").click(function(){
 $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
 });
+
+
+
+
 </script>
   </header>
+  
+  <script>
+  
+  
+  
+  $.post('https://siberup.com/nav.html', JSON.stringify({}), function(data){
+
+    console.log(data);
+  });
+  
+  
+  
+  </script>
   <!-- ***** SLIDER ***** -->
   <section id="owl-demo" class="owl-carousel owl-theme owl-loaded owl-drag">
   	  <div class="full h-100 overlay-video">
