@@ -376,7 +376,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
               <a href="configurator" class="btn btn-default-yellow-fill">Tüm Paketler</a>
             </div>
             <ul class="list-info bg-purple">
-              <li><i class="icon-cpu"></i> <span class="c-pink">CPU</span><br> <span>Intel® Core™ i9-10850K</span></li>
+              <li><i class="icon-cpu"></i> <span class="c-pink">CPU</span><br> <span>Intel® Core™ i9-18500K</span></li>
               <li><i class="icon-ram"></i> <span class="c-pink">RAM</span><br> <span>4GB DDR4</span></li>
               <li><i class="icon-drivessd"></i> <span class="c-pink">DATA</span><br> <span>50 GB NVME SSD</span></li>
               <li><i class="icon-git"></i> <span class="c-pink">HAT</span><br> <span>1 Gbit Hat (Payla<x><x>ş</x><x>ı</x></x>ml<x><x>ı</x></x>)</span></li>
@@ -393,7 +393,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
               <a href="vps" class="btn btn-default-yellow-fill">Tüm Paketler</a>
             </div>
             <ul class="list-info">
-              <li><i class="icon-cpu"></i> <span class="c-purple">CPU</span><br> <span>Intel® Core™ i9-10850K</span></li>
+              <li><i class="icon-cpu"></i> <span class="c-purple">CPU</span><br> <span>Intel® Core™ i9-9900K</span></li>
               <li><i class="icon-ram"></i> <span class="c-purple">RAM</span><br> <span>4GB DDR4</span></li>
               <li><i class="icon-drives"></i> <span class="c-purple">DISK</span><br> <span>30 GB NVME SSD</span></li>
               <li><i class="icon-speed"></i> <span class="c-purple">HAT</span><br> <span>1 Gbit Hat (Payla<x><x>ş</x><x>ı</x></x>ml<x><x>ı</x></x>)</span></li>
