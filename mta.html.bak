@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SİBERUP - Unturned Sunucuları</title>
+    <title>SİBERUP - Multi Theft Auto Sunucuları</title>
     <meta name="description" content="">
     <link href="fav.png" rel="shortcut icon">
     <!-- Fonts -->
@@ -282,8 +282,8 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
       <div class="row">
         <div class="col-sm-12 col-md-12">
           <div class="wrapper">
-            <h1 class="heading">Unturned</h1>
-            <h3 class="subheading">Unturned için özelleştirilmiş sunucularımız<br>
+            <h1 class="heading">Multi Theft Auto</h1>
+            <h3 class="subheading">Multi Theft Auto için özelleştirilmiş sunucularımız<br>
             
             </h3>
           </div>
@@ -299,14 +299,14 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
           <div class="wrapper first text-left">
             <div class="top-content">
               <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
-              <div class="title">Unturned #1</div>
+              <div class="title">MTA #1</div>
               
-              <div class="price"><sup><tl>₺</tl></sup>79.99 <span class="period">/ay</span></div>
+              <div class="price"><sup><tl>₺</tl></sup>29.99 <span class="period">/ay</span></div>
               <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
             </div>
             <ul class="list-info">
               <li><i class="icon-cpu"></i> <span class="c-purple">2 CPU</span><br> <span>Intel® Core™ i9-10850k</span></li>
-              <li><i class="icon-ram"></i> <span class="c-purple">RAM</span><br> <span>4GB DDR4</span></li>
+              <li><i class="icon-ram"></i> <span class="c-purple">RAM</span><br> <span>2GB DDR4</span></li>
               <li><i class="icon-drives"></i> <span class="c-purple">DISK</span><br> <span>30GB NVME SSD</span></li>
               <li><i class="icon-speed"></i> <span class="c-purple">TRAFIK</span><br> <span>Limitsiz Trafik</span></li>
             </ul>
@@ -316,31 +316,83 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
           <div class="wrapper text-left">
             <div class="top-content">
               <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
-              <div class="title">Unturned #2</div>
+              <div class="title">MTA #2</div>
               
-              <div class="price"><sup><tl>₺</tl></sup>149.99 <span class="period">/ay</span></div>
-			  <div class="plans badge feat bg-pink">Önerilen</div>
+              <div class="price"><sup><tl>₺</tl></sup>49.99 <span class="period">/ay</span></div>
               <a href="http://inebur.com/whmcs/cart.php?a=add&pid=5" class="btn btn-default-yellow-fill">Sipariş ver</a>
             </div>
             <ul class="list-info bg-purple">
-              <li><i class="icon-cpu"></i> <span class="c-pink">4 CPU</span><br> <span>Intel® Core™ i9-10850k</span></li>
-              <li><i class="icon-ram"></i> <span class="c-pink">RAM</span><br> <span>8GB DDR4</span></li>
-              <li><i class="icon-drives"></i> <span class="c-pink">DISK</span><br> <span>40GB NVME SSD</span></li>
+              <li><i class="icon-cpu"></i> <span class="c-pink">3 CPU</span><br> <span>Intel® Core™ i9-10850k</span></li>
+              <li><i class="icon-ram"></i> <span class="c-pink">RAM</span><br> <span>3GB DDR4</span></li>
+              <li><i class="icon-drives"></i> <span class="c-pink">DISK</span><br> <span>30GB NVME SSD</span></li>
               <li><i class="icon-speed"></i> <span class="c-pink">TRAFIK</span><br> <span>Limitsiz Trafik</span></li>
             </ul>
           </div>
         </div>
-	  <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
+		 <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
           <div class="wrapper first text-left">
             <div class="top-content">
               <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
-              <div class="title">Unturned #3</div>
-              
-              <div class="price"><sup><tl>₺</tl></sup>269.99 <span class="period">/ay</span></div>
+              <div class="title">MTA #3</div>
+           
+              <div class="price"><sup><tl>₺</tl></sup>79.99 <span class="period">/ay</span></div>
               <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
             </div>
             <ul class="list-info">
-              <li><i class="icon-cpu"></i> <span class="c-purple">8 CPU</span><br> <span>Intel® Core™ i9-10850k</span></li>
+              <li><i class="icon-cpu"></i> <span class="c-purple">3 CPU</span><br> <span>Intel® Core™ i9-10850k</span></li>
+              <li><i class="icon-ram"></i> <span class="c-purple">RAM</span><br> <span>4GB DDR4</span></li>
+              <li><i class="icon-drives"></i> <span class="c-purple">DISK</span><br> <span>30GB NVME SSD</span></li>
+              <li><i class="icon-speed"></i> <span class="c-purple">TRAFIK</span><br> <span>Limitsiz Trafik</span></li>
+            </ul>
+          </div>
+        </div>
+		<div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
+          <div class="wrapper first text-left">
+            <div class="top-content">
+              <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
+              <div class="title">MTA #4</div>
+           
+              <div class="price"><sup><tl>₺</tl></sup>149.99 <span class="period">/ay</span></div>
+              <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
+            </div>
+            <ul class="list-info">
+              <li><i class="icon-cpu"></i> <span class="c-purple">4 CPU</span><br> <span>Intel® Core™ i9-10850k</span></li>
+              <li><i class="icon-ram"></i> <span class="c-purple">RAM</span><br> <span>8GB DDR4</span></li>
+              <li><i class="icon-drives"></i> <span class="c-purple">DISK</span><br> <span>60GB NVME SSD</span></li>
+              <li><i class="icon-speed"></i> <span class="c-purple">TRAFIK</span><br> <span>Limitsiz Trafik</span></li>
+            </ul>
+          </div>
+        </div>
+		<div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
+          <div class="wrapper first text-left">
+            <div class="top-content">
+              <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
+              <div class="title">MTA #5</div>
+           
+              <div class="price"><sup><tl>₺</tl></sup>199.99 <span class="period">/ay</span></div>
+              <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
+            </div>
+            <ul class="list-info">
+              <li><i class="icon-cpu"></i> <span class="c-purple">4 CPU</span><br> <span>Intel® Core™ i9-10850k</span></li>
+              <li><i class="icon-ram"></i> <span class="c-purple">RAM</span><br> <span>10GB DDR4</span></li>
+              <li><i class="icon-drives"></i> <span class="c-purple">DISK</span><br> <span>60GB NVME SSD</span></li>
+              <li><i class="icon-speed"></i> <span class="c-purple">TRAFIK</span><br> <span>Limitsiz Trafik</span></li>
+            </ul>
+          </div>
+        </div>
+	 
+       
+	   <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
+          <div class="wrapper first text-left">
+            <div class="top-content">
+              <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
+              <div class="title">MTA #6</div>
+           
+              <div class="price"><sup><tl>₺</tl></sup>164.99 <span class="period">/ay</span></div>
+              <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
+            </div>
+            <ul class="list-info">
+              <li><i class="icon-cpu"></i> <span class="c-purple">6 CPU</span><br> <span>Intel® Core™ i9-10850k</span></li>
               <li><i class="icon-ram"></i> <span class="c-purple">RAM</span><br> <span>16GB DDR4</span></li>
               <li><i class="icon-drives"></i> <span class="c-purple">DISK</span><br> <span>60GB NVME SSD</span></li>
               <li><i class="icon-speed"></i> <span class="c-purple">TRAFIK</span><br> <span>Limitsiz Trafik</span></li>
@@ -353,20 +405,28 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
       </div>
     </div>
   </section>
+  <!-- ***** FEATURES ***** -->
  
+  <!-- ***** VIDEO DATACENTER ***** -->
+  
+  <!-- ***** SPECIFICATIONS ***** -->
+ 
+  <!-- ***** CUSTOM VPS SLIDER ***** -->
+ 
+<!-- ***** FAQ. ***** -->
 <section id="faq" class="sec-normal sec-grad-yellow-to-white-right">
   <img data-src="patterns/exapath.svg" class="path-right lazyload" alt="">
   <div class="faq">
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <h2 class="section-heading">Sıkça Sorulan Sorular Unturned </h2>
+          <h2 class="section-heading">Sıkça Sorulan Sorular Multi Theft Auto </h2>
         </div>
         <div class="col-sm-12">
           <div class="accordion faq pt-5">
             <div class="panel-wrap">
               <div class="panel-title">
-                <span>Unturned Server Kiralama hizmetinizde hangi lokasyon kullanıyorsunuz?</span>
+                <span>Multi Theft Auto Server Kiralama hizmetinizde hangi lokasyon kullanıyorsunuz?</span>
                 <div class="float-right">
                   <i class="fa fa-plus"></i>
                   <i class="fa fa-minus c-pink"></i>
@@ -377,7 +437,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
                   <div class="info">
                     <ul class="list">
                       <li>
-                        <p>Unturned Server Kiralama hizmetlerimiz de Türkiye Lokasyon tercih etmekteyiz. </p>
+                        <p>Multi Theft Auto Server Kiralama hizmetlerimiz de Türkiye Lokasyon tercih etmekteyiz. </p>
                         <p>Datacasa Data Center / Başakşehir İstanbul</p>
                       </li>
                     </ul>
@@ -385,9 +445,10 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
                 </div>
               </div>
             </div>
+       
             <div class="panel-wrap">
               <div class="panel-title">
-                <span>Rocketmod gibi multiplayer modifikasyon hizmetlerini kullanabilir miyim? </span>
+                <span>Multi Theft Auto Sunucu Kurma Nedir?</span>
                 <div class="float-right">
                   <i class="fa fa-plus"></i>
                   <i class="fa fa-minus c-pink"></i>
@@ -398,28 +459,8 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
                   <div class="info">
                     <ul class="list">
                       <li>
-                        <p>Evet, istediğiniz tüm modifikasyon hizmetini kullanabilirsiniz.</p>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="panel-wrap">
-              <div class="panel-title">
-                <span>Unturned Sunucu Kurma Nedir?</span>
-                <div class="float-right">
-                  <i class="fa fa-plus"></i>
-                  <i class="fa fa-minus c-pink"></i>
-                </div>
-              </div>
-              <div class="panel-collapse">
-                <div class="wrapper-collapse">
-                  <div class="info">
-                    <ul class="list">
-                      <li>
-                        <p>Unturned Sunucu Kurma hizmetimiz ile birlikte sizler de hayalini kurduğunuz Unturned Sunucu hizmetine kavuşabileceksiniz.</p>
-                        <p>İstediğiniz gibi şekillendirebileceğiniz Unturned Server Kurma hizmetimiz ile birlikte sizde hayallerinizdeki sunucuya kavuşacaksınız.</p>
+                        <p>Multi Theft Auto Sunucu Kurma hizmetimiz ile birlikte sizler de hayalini kurduğunuz Multi Theft Auto Sunucu hizmetine kavuşabileceksiniz.</p>
+                        <p>İstediğiniz gibi şekillendirebileceğiniz Multi Theft Auto Server Kurma hizmetimiz ile birlikte sizde hayallerinizdeki sunucuya kavuşacaksınız.</p>
                       </li>
                     </ul>
                   </div>
@@ -592,9 +633,9 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
 
 <style>
 .top-header {
-    background: url(img/Unturned.jpg);
+    background: url(img/mta.jpg);
     background-size: cover;
-	background-position-y: 50%;
+	background-position-y: 30%;
     background-color: black;
 }
 </style>
