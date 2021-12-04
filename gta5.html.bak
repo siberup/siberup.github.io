@@ -318,6 +318,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
               <li><i class="icon-ram"></i> <span class="c-purple">RAM</span><br> <span>4GB DDR4</span></li>
               <li><i class="icon-drives"></i> <span class="c-purple">DISK</span><br> <span>40GB NVME SSD</span></li>
               <li><i class="icon-speed"></i> <span class="c-purple">TRAFIK</span><br> <span>Limitsiz Trafik</span></li>
+			   <li><i class="icon-device"></i> <span class="c-purple">Hediye Teamspeak 3</span><br> <span>Web paneli 1024 slot</span></li>
             </ul>
           </div>
         </div>
@@ -336,6 +337,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
               <li><i class="icon-ram"></i> <span class="c-pink">RAM</span><br> <span>8GB DDR4</span></li>
               <li><i class="icon-drives"></i> <span class="c-pink">DISK</span><br> <span>40GB NVME SSD</span></li>
               <li><i class="icon-speed"></i> <span class="c-pink">TRAFIK</span><br> <span>Limitsiz Trafik</span></li>
+			  <li><i class="icon-device"></i> <span class="c-purple">Hediye Teamspeak 3</span><br> <span>Web paneli 1024 slot</span></li>
             </ul>
           </div>
         </div>
@@ -345,7 +347,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
               <img class="svg mb-3" src="fonts/svg/vps.svg" alt="">
               <div class="title">GTA 5 #3</div>
               <div class="fromer">Profesyoneller için</div>
-              <div class="price"><sup><tl>₺</tl></sup>339.99 <span class="period">/ay</span></div>
+              <div class="price"><sup><tl>₺</tl></sup>349.99 <span class="period">/ay</span></div>
               <a href="#" class="btn btn-default-yellow-fill">Sipariş ver</a>
             </div>
             <ul class="list-info">
@@ -353,6 +355,7 @@ $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
               <li><i class="icon-ram"></i> <span class="c-purple">RAM</span><br> <span>16GB DDR4</span></li>
               <li><i class="icon-drives"></i> <span class="c-purple">DISK</span><br> <span>60GB NVME SSD</span></li>
               <li><i class="icon-speed"></i> <span class="c-purple">TRAFIK</span><br> <span>Limitsiz Trafik</span></li>
+			  <li><i class="icon-device"></i> <span class="c-purple">Hediye Teamspeak 3</span><br> <span>Web paneli 1024 slot</span></li>
             </ul>
           </div>
         </div>
