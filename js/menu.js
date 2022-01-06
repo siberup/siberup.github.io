@@ -7,6 +7,7 @@
 	 }else {
 		$("header").html(localStorage.getItem('header'));
 	 }
+setTimeout(function(){
 	 if(!localStorage.getItem('footer')) {
        $.post('https://my.siberup.com/footer.php', JSON.stringify({}), function(data){
          localStorage.setItem('footer', data);
@@ -15,3 +16,4 @@
 	 } else {
 	     $("footer").html(localStorage.getItem('footer'));
 	 }
+}, 3000);
